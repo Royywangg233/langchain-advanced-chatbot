@@ -28,6 +28,5 @@ def replace_with_http_link(match):
 
 
 def reference_pattern():
-    #pattern = r'/Users/wanghao/Desktop/docs/[\w\.\-\[\]【】\u4e00-\u9fa5&、《》，：]+/[\w\.\,\=\'\-\[\]【】\u4e00-\u9fa5\(\)\+\s\uff08\uff09\u3002\u300a\u300b&【】·、？?{}\uff08\uff09，：\u201c\u201d%——《》…]+\.md'
     pattern = fr"{load_file_path}/.*\.md"
     return pattern
