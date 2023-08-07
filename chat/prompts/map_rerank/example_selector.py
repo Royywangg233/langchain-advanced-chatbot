@@ -5,11 +5,9 @@ from langchain.embeddings import OpenAIEmbeddings
 import os
 import openai
 
-os.environ["OPENAI_API_KEY"] = "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"
-openai.proxy = {
-            "http": "http://127.0.0.1:7890",
-            "http": "https://127.0.0.1:7890"
-        }
+from config import API_0
+
+os.environ["OPENAI_API_KEY"] = API_0
 
 
 examples = [
