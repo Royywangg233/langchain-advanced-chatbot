@@ -15,7 +15,7 @@ git clone https://github.com/Royywangg233/langchian-http-sources.git
 cd langchain-http-sources/
 ```
 
-**2. 安装依赖：** \>
+**2. 安装依赖：** 
 
 ``` bash
 pip3 install -r requirements.txt
