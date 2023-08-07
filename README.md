@@ -1,8 +1,11 @@
 # langchian-http-sources
-Using openai to generate response, and using langchain to create local document qa chatbot. 
-Can click the sources to see the original documents in the chat channel.
-Can show images from the chatbot response. 
-使用openai生成聊天回答，并使用langchain创建本地文档qa聊天机器人。可以点击源文件查看原始文档。可以在回答中显示图片。
+- Using openai to generate response, and using langchain to create local document qa chatbot. 
+- Can click the sources to see the original documents in the chat channel.
+- Can show images from the chatbot response. 
+
+- 使用openai生成聊天回答，并使用langchain创建本地文档qa聊天机器人。
+- 可以点击源文件查看原始文档。
+- 可以在回答中显示图片。
 
 
 https://github.com/Royywangg233/langchian-http-sources/assets/133733744/ea701689-a6dd-48af-b9b1-a5713200def4
