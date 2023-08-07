@@ -59,7 +59,7 @@ K = 1
 DEBUG = False #debug 参考文档准确性问题，初次运行不需要开启。
 
 # index config
-load_file_path = "/path/to/your/derictory" #指定要加载的目录路径 （目前只支持markdwon格式）
+load_file_path = "/path/to/your/derictory" #指定要加载的目录路径下的所有markdown格式文件 (如：/Users/wanghao/Desktop/docs/bangzhu）
 index_path = "/initialize/your/index/store/xxxxxxx.index" #指定要储存数据的向量库的路径
 pkl_path = "/initialize/your/faiss/store/xxxxx.pkl" #指定构建faiss向量库的路径
 ```
