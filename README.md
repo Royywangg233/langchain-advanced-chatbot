@@ -11,7 +11,7 @@ https://github.com/Royywangg233/langchian-http-sources/assets/133733744/ea701689
 **1. 克隆项目代码：**
 
 ``` bash
-git clone https://github.com/Royywangg233/langchian-http-sources.git
+git clone https://github.com/Royywangg233/langchain-http-sources.git
 cd langchain-http-sources/
 ```
 
